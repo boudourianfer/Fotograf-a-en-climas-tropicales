@@ -1,2 +1,2 @@
-# Fotograf-a-en-climas-tropicales
+# Fotografía-en-climas-tropicales
 La suposición de que si se opera a la luz de un sol tropical ningún tiempo de exposición puede resultar demasiado corto, es equivocada. Tanto la razón como la experiencia enseñan que podremos fijarnos en el exposímetro fotoeléctrico, lo mismo que en las tablas de exposición, siempre que estén adaptados a las latitudes en cuestión. En los países tropicales, la luz engaña cuando se trata de escenas en la calle o de temas arquitectónicos. 
